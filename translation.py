@@ -42,7 +42,7 @@ class Translation(object):
 │ 🤖 Mʏ Nᴀᴍᴇ : <a href=https://t.me/aboutpragyanpandey>Pragyan Bot </a>
 │ 👨‍💻 ᴅᴇᴠᴘʟᴏᴇʀ : <a href=https://t.me/aboutpragyanpandey>Pragyan</a>
 │ 🤖 ᴜᴘᴅᴀᴛᴇ  : <a href=https://t.me/vrindavanneeko16008>Pragyan</a>
-│ 📡 ʜᴏsᴛ ᴏɴ : <a href=https://devgagan.in/>Pragyan Server</a>
+│ 📡 ʜᴏsᴛ ᴏɴ : <a href=https://t.me/vrindavannagri16008/>Pragyan Server</a>
 │ 🗣️ ʟᴀɴɢᴜᴀɢᴇ  : ᴘʏᴛʜᴏɴ 3 
 {python_version}
 │ 📚 ʟɪʙʀᴀʀʏ  : ᴘʏʀᴏɢʀᴀᴍ  
